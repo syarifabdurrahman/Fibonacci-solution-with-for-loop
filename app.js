@@ -15,4 +15,4 @@ function fibonacciGenerator(n) {
   return output;
 }
 
-alert(fibonacciGenerator(10));
+console.log(fibonacciGenerator(10));
